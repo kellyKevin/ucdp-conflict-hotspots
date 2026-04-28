@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+prophet
+streamlit
+wbgapi
+requests
+stable-baselines3
+shimmy>=2.0
+gymnasium
